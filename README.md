@@ -1,2 +1,16 @@
-# INtra
-In order to exponentially enhance the use of Hindi Language in official matters, there is need to develop effective and real time translator for English to Hindi language translation and vice-versa. The main focus of this problem statement is to Develop one robust translator using NLP to develop a translator for translating Hindi to English and vice versa.
+# intra
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
